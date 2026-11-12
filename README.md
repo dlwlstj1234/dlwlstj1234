@@ -1,6 +1,6 @@
 <div align="center">
 
-# 이진서
+<img src="./assets/header.svg" width="100%" alt="이진서 — 활동과 프로젝트, 배움의 기록" />
 
 **광운대학교 소프트웨어학부 2학년**
 
@@ -14,7 +14,7 @@
 
 <a id="about"></a>
 
-## 내 소개
+## 01 · 내 소개
 
 안녕하세요. 광운대학교 소프트웨어학부 2학년에 재학 중인 **이진서**입니다.
 
@@ -22,14 +22,14 @@
 
 <a id="activities"></a>
 
-## 연도별 활동
+## 02 · 연도별 활동
 
 | 연도 | 활동 | 내용 |
 | :---: | :--- | :--- |
-| **2026** | KW 해커톤 | **9위** |
-| **2025** | SQLD | 자격 취득 |
+| **2026** | KW 해커톤 | `9위` |
+| **2025** | SQLD | `자격 취득` |
 | **2025** | [C++ Data Structure Study](https://github.com/HyeoniGit/cpp-Data-Structure-Study) | C++ 객체지향·템플릿 학습 및 스택·큐·연결 리스트·트리 구현 실습 |
-| **2023** | Dean's List | **2학기 선정** |
+| **2023** | Dean's List | `2학기 선정` |
 
 <details>
 <summary>C++ Data Structure Study · 학습 내용</summary>
@@ -45,9 +45,11 @@
 
 <a id="projects"></a>
 
-## 프로젝트
+## 03 · 프로젝트
 
 ### 롤문철
+
+`TEAM PROJECT` `BACKEND` `PYTHON`
 
 **AI 분석과 커뮤니티 의견을 함께 살펴보는 리그오브레전드 플레이 분석 웹 서비스**
 
@@ -64,7 +66,11 @@
 
 <!-- 담당 범위는 저장소 README의 이진서 역할 분담 기준입니다. 기간과 진행 상태는 확인 후 추가합니다. -->
 
+---
+
 ### 월계 알리미
+
+`KW HACKATHON 2026` `BACKEND` `DATA PIPELINE`
 
 **지역 공지를 모아 요약과 쉬운말로 전달하는 2026 KW 해커톤 팀 프로젝트**
 
@@ -92,7 +98,11 @@
 
 [저장소 보기 →](https://github.com/2026-KW-HACKATHON/02_Cotton-Candy-and-Raccoon)
 
+---
+
 ### 마이링크 · my-link
+
+`WEB APPLICATION` `NEXT.JS` `FIREBASE`
 
 **프로필과 여러 링크를 하나의 페이지로 공유하는 웹 서비스**
 
@@ -121,17 +131,13 @@ Google 계정으로 로그인해 프로필과 링크를 관리하고, 닉네임 
 
 <a id="stack"></a>
 
-## 기술 스택
+## 04 · 기술 스택
 
-| 분야 | 기술 |
-| :--- | :--- |
-| **Languages** | `Python` · `C` · `C++` · `Kotlin` |
-| **Data** | `NumPy` · `pandas` |
-| **Tools & Environment** | `GitHub` · `Linux` |
+<img src="./assets/stack.svg" width="100%" alt="언어: Python, C, C++, Kotlin. 데이터: NumPy, pandas. 도구 및 환경: GitHub, Linux." />
 
 <a id="links"></a>
 
-## 링크
+## 05 · 링크
 
 <!-- 추후 추가 예정. -->
 
