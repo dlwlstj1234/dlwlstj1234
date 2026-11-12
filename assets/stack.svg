@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title">
+  <title id="title">Languages: Python, C, C++, Kotlin. Data: NumPy, pandas. Tools and Environment: GitHub, Linux.</title>
+  <rect x="1" y="1" width="998" height="258" rx="16" fill="#101d30" stroke="#2d4359"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <g fill="#9bb3c9" font-size="13" letter-spacing="2"><text x="32" y="56">LANGUAGES</text><text x="32" y="136">DATA</text><text x="32" y="216">ENVIRONMENT</text></g>
+    <g stroke="#38536c" fill="#1a3048"><rect x="230" y="25" width="155" height="48" rx="8"/><rect x="400" y="25" width="155" height="48" rx="8"/><rect x="570" y="25" width="155" height="48" rx="8"/><rect x="740" y="25" width="155" height="48" rx="8"/></g>
+    <g fill="#163a41" stroke="#2e6267"><rect x="230" y="105" width="155" height="48" rx="8"/><rect x="400" y="105" width="155" height="48" rx="8"/></g>
+    <g fill="#2c2845" stroke="#51466a"><rect x="230" y="185" width="155" height="48" rx="8"/><rect x="400" y="185" width="155" height="48" rx="8"/></g>
+    <g fill="#eef5fc" font-size="18" text-anchor="middle"><text x="307" y="56">Python</text><text x="477" y="56">C</text><text x="647" y="56">C++</text><text x="817" y="56">Kotlin</text><text x="307" y="136">NumPy</text><text x="477" y="136">pandas</text><text x="307" y="216">GitHub</text><text x="477" y="216">Linux</text></g>
+  </g>
+</svg>
+
