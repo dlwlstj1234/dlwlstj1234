@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-labelledby="title desc">
+  <title id="title">이진서 — 활동과 프로젝트, 배움의 기록</title>
+  <desc id="desc">짙은 남색 배경에 청록색 선과 격자로 꾸민 개인 프로필 배너</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d172c"/><stop offset="1" stop-color="#173750"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#9edbd4" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1000" height="260" rx="18" fill="url(#grid)"/>
+  <circle cx="915" cy="70" r="125" fill="none" stroke="#7de3cf" stroke-opacity=".14"/>
+  <circle cx="915" cy="70" r="95" fill="none" stroke="#7de3cf" stroke-opacity=".14"/>
+  <path d="M738 207h194M776 191h156" stroke="#7de3cf" stroke-opacity=".35"/>
+  <rect x="48" y="44" width="36" height="3" rx="1.5" fill="#7de3cf"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="99" y="50" fill="#a9c4d7" font-size="12" letter-spacing="3">DLWLSTJ1234 / PERSONAL ARCHIVE</text>
+    <text x="48" y="132" fill="#f2f7fc" font-family="Malgun Gothic, Apple SD Gothic Neo, sans-serif" font-size="54" font-weight="700">이진서</text>
+    <text x="50" y="175" fill="#c5d7e5" font-size="17" letter-spacing="1">CODE. LEARN. BUILD.</text>
+    <text x="50" y="222" fill="#7de3cf" font-size="12" letter-spacing="2">KWANGWOON UNIVERSITY · SOFTWARE</text>
+    <text x="823" y="145" fill="#7de3cf" font-size="54" font-weight="300" opacity=".65">&lt;/&gt;</text>
+  </g>
+</svg>
+
