@@ -30,6 +30,7 @@
 | **2025** | SQLD | `자격 취득` |
 | **2025** | [C++ Data Structure Study](https://github.com/HyeoniGit/cpp-Data-Structure-Study) | C++ 객체지향·템플릿 학습 및 스택·큐·연결 리스트·트리 구현 실습 |
 | **2026** | KW 해커톤 | `9위` |
+| **2026** | [청년취업사관학교 해커톤](https://event-us.kr/aicslaunch2025/event/136861) | `장려상` |
 
 <details>
 <summary>C++ Data Structure Study · 학습 내용</summary>
